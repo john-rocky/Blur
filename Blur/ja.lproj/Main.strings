@@ -1,0 +1,27 @@
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "8vt-aW-See"; */
+"8vt-aW-See.title" = "Item";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "A74-bJ-hdY"; */
+"A74-bJ-hdY.text" = "Label";
+
+/* Class = "UILabel"; text = "利用規約"; ObjectID = "Sbi-yR-b22"; */
+"Sbi-yR-b22.text" = "利用規約";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dpH-C7-UpR"; */
+"dpH-C7-UpR.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "fh1-Jb-c5Z"; */
+"fh1-Jb-c5Z.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Tap to resume"; ObjectID = "gnW-u8-5G7"; */
+"gnW-u8-5G7.normalTitle" = "Tap to resume";
+
+/* Class = "UILabel"; text = "Camera Unavailable"; ObjectID = "oil-K0-3Bw"; */
+"oil-K0-3Bw.text" = "Camera Unavailable";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rUR-He-XgV"; */
+"rUR-He-XgV.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "rvl-1x-XE1"; */
+"rvl-1x-XE1.title" = "Item";

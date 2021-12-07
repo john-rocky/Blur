@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Blur
+
+  Created by 間嶋大輔 on 2020/03/06.
+  Copyright © 2020 daisuke. All rights reserved.
+*/
+NSPhotoLibraryAddUsageDescription = "请允许访问您的照片库。 这使应用程序可以将捕获和编辑的照片保存到设备的资料库中。";
+NSPhotoLibraryUsageDescription = "请允许访问您的照片库。 这允许该应用将用户从图库中选择的图像应用于照片的背景。";
+NSCameraUsageDescription = "请允许访问相机。 这允许应用程序拍摄包含深度数据和人物在图像中的位置的照片，并分别编辑人物和背景在图像中。";
+NSMicrophoneUsageDescription = "Please allow access to your device's microphone. This allows the app to record audio in video mode and save it to the device along with the video.";
